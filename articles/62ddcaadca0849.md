@@ -1,5 +1,5 @@
 ---
-title: "PythonのSeleniumでInstagramの投稿画像をスクレイピングしてみた"
+title: "PythonのSeleniumでInstagramの投稿画像をスクレイピングした"
 emoji: "📷"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Python, Selenium, Scraping, Instagram]
