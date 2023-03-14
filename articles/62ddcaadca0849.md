@@ -3,7 +3,7 @@ title: "PythonのSeleniumでInstagramの投稿画像をスクレイピングし�
 emoji: "📷"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Python, Selenium, Scraping, Instagram]
-published: false
+published: true
 ---
 
 ## 1. 概要
