@@ -4,14 +4,15 @@
   "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/te19oishi/zenn-content.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/te19oishi/zenn-content/issues"
