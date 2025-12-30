@@ -1,6 +1,6 @@
 ---
-title: "サクラのレンタルサーバーでメールサーバーを借りて独自ドメイン設定する方法"
-emoji: "📧"
+title: "さくらインターネットのメールサーバーで独自ドメインを利用したメールを送受信する"
+emoji: "💌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [さくらインターネット, メールサーバー, 独自ドメイン, Cloudflare, Gmail]
 published: true
@@ -268,6 +268,6 @@ Gmailを開いて左上の歯車アイコンをクリックし、`すべての�
 
 ## 11. 関連リンク
 
-- [サクラのレンタルサーバー公式サイト](https://www.sakura.ne.jp/)
-- [サクラのレンタルサーバーマニュアル](https://help.sakura.ad.jp/)
+- [さくらインターネットのレンタルサーバー公式サイト](https://www.sakura.ne.jp/)
+- [さくらインターネットのレンタルサーバーヘルプ](https://help.sakura.ad.jp/)
 
